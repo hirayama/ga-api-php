@@ -1,0 +1,5 @@
+/ga/ga_api/
+/ga/request/
+/rc_ga/
+!/ga/request/sample_request.php
+*.log
